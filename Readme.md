@@ -12,4 +12,7 @@ OpenRouter has several models that are 100% free (no credit card required), such
 Run Aider like this:
 ```
 
+### 4) Browser automation agent is tested it is good but tokens are required.
+
+### 5) 
 
