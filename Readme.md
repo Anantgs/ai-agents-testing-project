@@ -16,3 +16,4 @@ Run Aider like this:
 
 ### 5) lets integrate job search agent with browser automation agent 
 
+### 6) Openhuman explore it , it is an ai assistance.
