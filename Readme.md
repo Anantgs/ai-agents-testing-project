@@ -17,3 +17,5 @@ Run Aider like this:
 ### 5) lets integrate job search agent with browser automation agent 
 
 ### 6) Openhuman explore it , it is an ai assistance.
+
+### 7) google AI STUDIO is best for generating videos (Playground) and gemini is best for creating presentations.
