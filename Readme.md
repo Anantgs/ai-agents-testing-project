@@ -19,3 +19,5 @@ Run Aider like this:
 ### 6) Openhuman explore it , it is an ai assistance.
 
 ### 7) google AI STUDIO is best for generating videos (Playground) and gemini is best for creating presentations.
+
+### 8) explore , this is for networking setup testing : https://www.facebook.com/share/p/1dgUBbrxVV/
