@@ -24,4 +24,4 @@ Run Aider like this:
 
 ### 9) need to test opengrok as it is very useful model.
 
-### 10) explore manim and Blender for technical animation
+### 10) explore manim and Blender for technical animation : it is ok ok i have tested it with chatgpt and it is ok ok , we can run it with python.
