@@ -21,3 +21,5 @@ Run Aider like this:
 ### 7) google AI STUDIO is best for generating videos (Playground) and gemini is best for creating presentations.
 
 ### 8) explore , this is for networking setup testing : https://www.facebook.com/share/p/1dgUBbrxVV/
+
+### 9) need to test opengrok as it is very useful model.
